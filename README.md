@@ -4,7 +4,7 @@ Here are some reading materials of SSE schemes as well as some open-source imple
 
 ## Contents
 * [Theory](#Theory)
-  * [Introductory Papers](#Introductory Papers)
+  * [Introductory Papers](#Introductory-Papers)
   * [Surveys](#Surveys)
 * [Implementations](#Theory)
   * [Constructions](#Constructions)
